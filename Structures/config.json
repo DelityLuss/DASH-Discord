@@ -1,0 +1,60 @@
+{
+    "Commentaire1": "<--------------------------Config du bot------------------------------>",
+    
+    "token": "OTA1OTQxNDc3MjcwNjIyMjM4.GTvJI7.BH6A6sffcEoEYhc8noZx5dOAp-31D54htA3Tck",
+    "server_id": "749690817056211017",
+    "suggestion_channel_id": "749690817878425693",
+    "post_commande_channel_id":"749690817718911015",
+    "log":false,
+    "log_crash": false,
+    "Anti_Crash": true,
+    "invite_tracker": true,
+    "logs_channel_id": "749690818071101474",
+    "event_channel_id": "767733189677809705",
+    "create_event_channel": false,
+    "OPENTICKET_ID":"749690817718911016",
+    "PARENTID": "749690817878425692",
+    "EVERYONEID": "749690817056211017",
+    "PINGROLETICKET":"749690817492287522",
+    "TRANSCRIPTEID":"749690818071101474",
+    "TICKETROLE":"749690817492287522",
+    "Mute_role":"749690817056211020",
+    "database":"mongodb+srv://luss:WBYd0EyPaGuVQZdu@kyo.vvlvr.mongodb.net/kyo?retryWrites=true&w=majority", 
+
+    "Commentaire2": "<--------------------------Sanctions------------------------------>",
+
+    "ban_warn": 3,
+
+    "Commentaire3": "<--------------------------Messages du bot------------------------------>",
+
+    "msg_permission_global": "❌ Tu n'as pas la permission.",
+    "msg_suggestion_approve": "La suggestion a été envoyée avec succès. ✅",
+    "msg_wrong_channel_suggestion": "❌ Tu dois faire cette commande dans le salon prévu à cet effet.",
+    "msg_suggestion_published": "Nouvelle suggestion publiée ",
+    "msg_successfully_modified": "✅ Modifié avec succès",
+    "msg_successfully_deleted": "✅ Supprimé avec succès",
+    "msg_ban_word_suggestion" : "❌ Un mot vulgaire a été détecté. Refaites votre suggestion s'il vous plaît.",
+    "msg_not_enough_character": "❌ La suggestion doit faire au minimum 15 caractères.",
+    "msg_global_error": "❌ Une erreur est survenue.",
+    "msg_deleting_completed": " messages ont été supprimés.",
+    "msg_deleting_error": "❌ Le maximum de messages que tu peux supprimer est de 100 messages.",
+    "msg_deleting_user_successfuly": "✅ 100 messages de l'utilisateur ",
+    "msg_unable_to_ban": "❌ Impossible de bannir ",
+    "msg_ban": " a été banni du serveur.",
+    "msg_kick": " a été kick du serveur.",
+    "msg_unable_to_kick": "❌ Impossible de kick ",
+    "msg_not_in_channel": "❌ Tu dois être dans un vocal pour mettre de la musique.",
+    "msg_aleady_voice": "❌ Je suis déjà connecté dans le channel ",
+    "msg_dev": "❌ Cette commande est en cours de développement.",
+    "msg_event_add_user": "✅ Ajouter avec succés.",
+    "msg_event_remove_user": "✅ Enlever avec succés.",
+    "msg_event_add_user_warning": "✅ Tu as bien été ajouté à l'événement. \n⚠️ **Attention** si tu ne te présente pas à l'événement tu recevras un warn.",
+    "msg_event_full_user": "❌ Cet événement est plein, mais ne t'inquiète pas si de la place se libère tu seras ajouter automatiquement. 😃",
+
+
+    "Commentaire4": "<--------------------------Couleurs------------------------------>",
+
+    "color_green": "0x00b315",
+    "color_blue": "0x1ab2ff",
+    "color_red": "0xea1a1a"
+}

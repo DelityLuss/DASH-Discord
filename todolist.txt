@@ -1,0 +1,41 @@
+🟢 => Fait
+🟠 => En cours
+🔴 => Impossible à faire ou proposition abandonnée
+  
+🔵 => En attente de validation ou pas encore fait
+
+
+1. Afficher le nombre de warn quand il y a un warn 🟢
+
+2. Mettre les sanctions en DB 🟢
+
+3. Faire des test pour trouver de potentiels bugs 🟢
+.event 🟢
+.warn 🟢
+.music 🟢
+.ticket 🟢
+.suggestion 🟢
+.giveaway 🟢 
+.poll 🟢
+.Autres commandes mais mineur 🟢
+
+4. Ajouter d'autres commandes //avatar//userinfo//serverrinfo//serverip//ipevent 🟢
+
+5. welcome message //Embed//image//mp  🔴
+
+6. Créer un channel pour les personnes de l'event 🔵
+
+7. Sur les tickets afficher le nom de l'utilisateur au lieu de Ticket-#### 🔴
+
+8. Sur les tickets rajouter une option fermer le ticket sans sauvegarder 🟢
+
+9. Système de filtration de messages qui suppriment les links telles que discord gift ou invitation discord 🟢
+
+10. Anti-spam dans le chat après une répétition de 9 messages < 5 senconde l'utilisateurs et mute pour une heure 🟠
+
+11. Anti-everyone Un utilisateur lambda n'a pas la permission d'exécuter le everyone 🟢
+
+12. Anti-bot Un bot ne peut pas rejoindre le serveur sauf autorisation pour éviter les nuke 🟢
+
+13. Système de log complet (tous les événements enregistrés + supprression message) 🟢
+
